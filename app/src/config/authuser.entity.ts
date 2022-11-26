@@ -1,5 +1,3 @@
-
-
 // import { Entity } from 'typeorm';
 
 // @Entity()
@@ -25,10 +23,3 @@ export class UserEntity {
     @Column({ name: "zip_code" })
     zipCode: string;
 }
-
-// import { Entity } from 'typeorm';
-
-// @Entity()
-// export class UserEntity {
-
-// }
